@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:lightgray;
+}
+
+#container_logo_titolo{
+    padding: 10px 5px;
+    border-top: 1px solid black; 
+    background-color: white;    
+}
+
+#logo{
+    width:55px;
+    vertical-align: middle;
+}
+
+#titolo{
+    display: inline-block;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    vertical-align: middle;
+}
