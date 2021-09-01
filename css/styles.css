@@ -25,3 +25,32 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     vertical-align: middle;
 }
+
+#main_container{
+    margin: 40px auto 10px;
+    background-color: white;
+    width: 70%;
+}
+
+#nav{
+    padding: 15px 40px 10px;
+    border-bottom: 1px solid lightgray
+}
+
+.button{
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+.task{
+    background-color: rgb(7, 176, 255);
+    color:white;
+}
+
+.section{
+    background-color: white;
+    color:lightgray;
+
+}
