@@ -18,8 +18,9 @@ h3{
 }
 
 li{
-    margin-bottom: 15px;
-    margin-top: 5px;
+    /* margin-bottom: 15px;
+    margin-top: 5px; */
+    line-height: 40px;
 }
 
 #container_logo_titolo{
