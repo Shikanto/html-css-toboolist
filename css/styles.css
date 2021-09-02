@@ -18,9 +18,9 @@ h3{
 }
 
 li{
-    /* margin-bottom: 15px;
-    margin-top: 5px; */
-    line-height: 40px;
+    padding-bottom: 15px;
+    padding-top: 5px; 
+    /* line-height: 40px; */
 }
 
 #container_logo_titolo{
@@ -80,7 +80,7 @@ li{
 }
 
 .marker{
-    width: 20px;
+    width: 21px;
     vertical-align: middle;
 }
 
@@ -89,6 +89,7 @@ li{
     padding: 5px;
     font-size: 10px;
     color:white;
+    vertical-align: middle;
 }
 
 .editorial {
@@ -113,4 +114,8 @@ li{
 
 .sales{
     background-color: lightgreen;
+}
+
+.task-text{
+    vertical-align: middle;
 }
